@@ -1,4 +1,4 @@
-# tutorial_prpvider
+# tutorial_provider
 
 A new Flutter project.
 
